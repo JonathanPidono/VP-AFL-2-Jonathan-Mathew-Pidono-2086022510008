@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Charizard ex",
+    "brand": "Pokémon",
+    "rarity": "Super Rare",
+    "condition": "mint",
+    "valueRupiah": 450000,
+    "createdAt": "2026-01-06T10:00:00.000",
+    "isFavorite": false
+  },
+  {
+    "id": "2",
+    "name": "Pikachu VMAX",
+    "brand": "Pokémon",
+    "rarity": "Ultra Rare",
+    "condition": "nearMint",
+    "valueRupiah": 320000,
+    "createdAt": "2026-01-06T09:59:00.000",
+    "isFavorite": true
+  },
+  {
+    "id": "3",
+    "name": "Blue-Eyes White Dragon",
+    "brand": "Yu-Gi-Oh!",
+    "rarity": "Ultra Rare",
+    "condition": "excellent",
+    "valueRupiah": 1200000,
+    "createdAt": "2026-01-06T09:58:00.000",
+    "isFavorite": false
+  },
+  {
+    "id": "4",
+    "name": "Dark Magician",
+    "brand": "Yu-Gi-Oh!",
+    "rarity": "Super Rare",
+    "condition": "played",
+    "valueRupiah": 275000,
+    "createdAt": "2026-01-06T09:57:00.000",
+    "isFavorite": false
+  },
+  {
+    "id": "5",
+    "name": "Black Lotus",
+    "brand": "Magic",
+    "rarity": "Rare",
+    "condition": "nearMint",
+    "valueRupiah": 150000,
+    "createdAt": "2026-01-06T09:56:00.000",
+    "isFavorite": true
+  },
+  {
+    "id": "6",
+    "name": "Lightning Bolt",
+    "brand": "Magic",
+    "rarity": "Uncommon",
+    "condition": "excellent",
+    "valueRupiah": 60000,
+    "createdAt": "2026-01-06T09:55:00.000",
+    "isFavorite": false
+  }
+]
